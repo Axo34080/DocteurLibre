@@ -26,4 +26,4 @@ API REST Node.js pour la gestion de rendez-vous médicaux.
 
 ## Auteur
 
-[Votre nom] - Projet de cours API
+Villain Marc - Projet de cours API
